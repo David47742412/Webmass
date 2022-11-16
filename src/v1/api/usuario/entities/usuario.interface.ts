@@ -6,6 +6,7 @@ import { TrabajoDetalle } from "../../trabajo_detalle/entities/trabajo_detalle.e
 
 
 export interface UsuarioInterface {
+  
   usuario_id: number;
 
   usuario_foto: string;
